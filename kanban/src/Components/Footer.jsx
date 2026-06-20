@@ -33,7 +33,7 @@ const Footer = () => {
 
         {/* Founder */}
         <p className="text-base md:text-lg font-bold">
-          Founder: <span className="font-extrabold ">Reeta Mishra</span>
+          Founder: <span className="font-extrabold ">Prashant Shukla</span>
         </p>
 
         {/* Phone */}

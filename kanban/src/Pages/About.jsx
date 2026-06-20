@@ -42,7 +42,7 @@ const About = () => {
           {/* Text */}
           <div className="animate-slide-up">
             <h1 className="text-2xl md:text-3xl font-bold text-orange-500 mb-4">
-              What is She Can?
+              What is NAYE PANKH ?
             </h1>
             <p className="text-gray-300 leading-relaxed">
               
